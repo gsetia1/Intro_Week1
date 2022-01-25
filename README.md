@@ -1,4 +1,5 @@
 # Welcome to Foundations of Computing for Biologists
+## The biology class
 
 - Introductions
 
